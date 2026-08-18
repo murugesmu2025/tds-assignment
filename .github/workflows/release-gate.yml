@@ -27,4 +27,4 @@ jobs:
 
       - name: Run tests
         working-directory: ga7
-        run: PYTHONPATH=ga7 pytest -q
+        run: PYTHONPATH=. pytest -q
