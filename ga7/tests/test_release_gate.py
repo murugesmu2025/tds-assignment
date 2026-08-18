@@ -1,4 +1,4 @@
-from ga7.app.main import app
+from app.main import app
 
 
 import asyncio
